@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.com/"
+baseurl = "https://hardcore-hugle-bcd357.netlify.com/"
 title = "Hugo Story Theme"
 paginate = 5
 buildFuture = true
